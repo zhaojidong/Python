@@ -1,3 +1,0 @@
-repeat
-halt
-scan_setup
