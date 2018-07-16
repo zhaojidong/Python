@@ -1,7 +1,0 @@
---------------------EyeQ4_mid_bbgen_standalone_jtag--------------------
-29: repeat 8                                     > t_default_WFT_  0       0      0      0       0        0    0    0    X     0        X        X       X         0         X        X       X        X        X       ; // "precondition all Signals": C  { "all_inputs" = 11 \r5 0 100; "all_bidirectionals" = \r263 X 0 \r18 X 0 \r18 X; }|label precondition all Signals
-615: halt                                         > t_default_WFT_  1       1      1      0       1        1    0    0    X     0        X        X       1         1         X        X       H        H        H       ; 
---------------------EyeQ4_mid_bbgen_standalone_jtag_measure--------------------
-1239: scan_setup              > t_default_WFT_             1       X          1        1      0           X             0      X           X        1        0         X        
---------------------EyeQ4_mid_bbgen_standalone_otp--------------------
---------------------EyeQ4_mid_bbgen_standalone_otp_clkout--------------------
